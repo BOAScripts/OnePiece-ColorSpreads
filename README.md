@@ -1,4 +1,5 @@
 # OnePiece-ColorSpreads
+
 Download all color spreads of One Piece.
 
 ## About
@@ -11,7 +12,7 @@ All color spreads comes from: `https://onepiece.fandom.com/wiki/Category:Color_S
 
 ## Usage
 
-3 tools are available in the release section, download and unzip `OP-ColorSpreads.zip` :
+3 tools are available in the release section, download and unzip `OP-ColorSpreads-Bundle.zip` :
 
 - `OP-ColorSpreads-GUI.exe`
 - `OP-ColorSpreads-GUI.py`
@@ -30,7 +31,13 @@ For windows users the `.exe` is the easiest to use as it doesn't require a pytho
     - `pip install -r requirements.txt`
     - `python3 OP-ColorSpreads.py`
 
+![Alt text](src/OP-ColorSpreads-GUI_Usage.gif)
+
 ### CLI
 
 - `pip install -r requirements.txt` 
 - `python3 OP-ColorSpreads-CLI.py -p "{your_download_directory_here}"`
+
+## Extra
+
+- I'm not checking the available disk space. As of today the 180 color spreads takes ~800mb.
