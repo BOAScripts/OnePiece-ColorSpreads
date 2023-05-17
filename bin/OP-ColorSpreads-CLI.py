@@ -4,10 +4,10 @@
 Downloading/Updating Color spreads of One Piece from the fandom site.
 
 Usage:
-python ./WebCrawling_wikiFandom_V2.py 
+python ./OP-ColorSpreads-CLI.py 
     --> will download all the images in the current directory
 
-python ./WebCrawling_wikiFandom_V2.py -p "{PATH-TO-UPDATE}"
+python ./OP-ColorSpreads-CLI.py -p "{PATH-TO-UPDATE}"
     --> will download in the provided directory the latest color spreads. (can also be used to download all to a specific directory)
     --> do not end the path with a "/", it may break the script. to lazy to handle error...
 '''
