@@ -8,7 +8,7 @@ Written in Python 3.11.3, using PySimpleGui and BeautifulSoup modules
 
 Those tools can each download all the color spreads of One Piece in the selected folder,and update a selected folder with the latest color spreads.
 
-All color spreads comes from: `https://onepiece.fandom.com/wiki/Category:Color_Spreads`
+All color spreads come from: `https://onepiece.fandom.com/wiki/Category:Color_Spreads`
 
 ## Usage
 
@@ -29,7 +29,7 @@ For windows users the `.exe` is the easiest to use as it doesn't require a pytho
 
 - PY:
     - `pip install -r requirements.txt`
-    - `python3 OP-ColorSpreads.py`
+    - `python3 OP-ColorSpreads-GUI.py`
 
 ![Alt text](src/OP-ColorSpreads-GUI_Usage.gif)
 
